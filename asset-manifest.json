@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ad-dataset/static/css/main.029d2d17.chunk.css",
-    "main.js": "/ad-dataset/static/js/main.4c53c711.chunk.js",
-    "main.js.map": "/ad-dataset/static/js/main.4c53c711.chunk.js.map",
-    "runtime-main.js": "/ad-dataset/static/js/runtime-main.0f867327.js",
-    "runtime-main.js.map": "/ad-dataset/static/js/runtime-main.0f867327.js.map",
-    "static/js/2.d92d0560.chunk.js": "/ad-dataset/static/js/2.d92d0560.chunk.js",
-    "static/js/2.d92d0560.chunk.js.map": "/ad-dataset/static/js/2.d92d0560.chunk.js.map",
-    "static/js/3.ffa652b5.chunk.js": "/ad-dataset/static/js/3.ffa652b5.chunk.js",
-    "static/js/3.ffa652b5.chunk.js.map": "/ad-dataset/static/js/3.ffa652b5.chunk.js.map",
-    "index.html": "/ad-dataset/index.html",
-    "static/css/main.029d2d17.chunk.css.map": "/ad-dataset/static/css/main.029d2d17.chunk.css.map",
-    "static/js/2.d92d0560.chunk.js.LICENSE.txt": "/ad-dataset/static/js/2.d92d0560.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ad-dataset/static/media/logo.6ce24c58.svg"
+    "main.css": "/ad_dataset/static/css/main.029d2d17.chunk.css",
+    "main.js": "/ad_dataset/static/js/main.4c53c711.chunk.js",
+    "main.js.map": "/ad_dataset/static/js/main.4c53c711.chunk.js.map",
+    "runtime-main.js": "/ad_dataset/static/js/runtime-main.0a02ec6f.js",
+    "runtime-main.js.map": "/ad_dataset/static/js/runtime-main.0a02ec6f.js.map",
+    "static/js/2.5bc9e862.chunk.js": "/ad_dataset/static/js/2.5bc9e862.chunk.js",
+    "static/js/2.5bc9e862.chunk.js.map": "/ad_dataset/static/js/2.5bc9e862.chunk.js.map",
+    "static/js/3.ffa652b5.chunk.js": "/ad_dataset/static/js/3.ffa652b5.chunk.js",
+    "static/js/3.ffa652b5.chunk.js.map": "/ad_dataset/static/js/3.ffa652b5.chunk.js.map",
+    "index.html": "/ad_dataset/index.html",
+    "static/css/main.029d2d17.chunk.css.map": "/ad_dataset/static/css/main.029d2d17.chunk.css.map",
+    "static/js/2.5bc9e862.chunk.js.LICENSE.txt": "/ad_dataset/static/js/2.5bc9e862.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ad_dataset/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f867327.js",
-    "static/js/2.d92d0560.chunk.js",
+    "static/js/runtime-main.0a02ec6f.js",
+    "static/js/2.5bc9e862.chunk.js",
     "static/css/main.029d2d17.chunk.css",
     "static/js/main.4c53c711.chunk.js"
   ]
